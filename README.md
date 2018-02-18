@@ -15,16 +15,16 @@ Note: By logging in or registering , we become your reseller. This mainly means 
 Download the latest version here:
 
 ### Windows ###
-<a href="https://github.com/Geexteam/Mollie-Desktop/windows/Mollie_v1.0.0.exe.zip" target="_blank">Download here</a>
+<a href="https://github.com/Geexteam/Mollie-Desktop/raw/master/windows/Mollie_v1.0.0.exe.zip" target="_blank">Download here</a>
 
 
 ### MacOS ###
-<a href="https://github.com/Geexteam/Mollie-Desktop/mac/Mollie_v1.0.0.app.zip" target="_blank">Download here</a>
+<a href="https://github.com/Geexteam/Mollie-Desktop/raw/master/mac/Mollie_v1.0.0.app.zip" target="_blank">Download here</a>
 
 ## Want new features? ##
 If you'd like new features or something isn't working, you can contact us through one of the following methods:
- - <a href="mailto:development@geex.compant?Subject=Mollie%20App%20App%20Suggestion">Email</a>
- - <a href="https://twitter.com/geex_team">Twitter @GeeX-dev</a>
- - <a href="https://github.com/Geexteam/Mollie-Desktop/issues">GitHub issues</a>
+ - <a href="mailto:development@geex.compant?Subject=Mollie%20Desktop%20Suggestion">Email</a>
+ - <a href="https://twitter.com/geex_team" target="_blank">Twitter @GeeX-dev</a>
+ - <a href="https://github.com/Geexteam/Mollie-Desktop/issues" target="_blank">GitHub issues</a>
 
 
